@@ -1,0 +1,11 @@
+C:\Temp\SnowboardSite\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\Temp\SnowboardSite\Tests\bin\Debug\Tests.dll
+C:\Temp\SnowboardSite\Tests\bin\Debug\Tests.pdb
+C:\Temp\SnowboardSite\Tests\bin\Debug\SnowboardSite.exe
+C:\Temp\SnowboardSite\Tests\bin\Debug\WebDriver.dll
+C:\Temp\SnowboardSite\Tests\bin\Debug\SnowboardSite.pdb
+C:\Temp\SnowboardSite\Tests\bin\Debug\WebDriver.xml
+C:\Temp\SnowboardSite\Tests\obj\Debug\Tests.dll
+C:\Temp\SnowboardSite\Tests\obj\Debug\Tests.pdb
+C:\Temp\SnowboardSite\Tests\bin\Debug\WebDriver.Support.dll
+C:\Temp\SnowboardSite\Tests\bin\Debug\WebDriver.Support.xml
